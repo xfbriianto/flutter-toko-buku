@@ -4,4 +4,5 @@ class Item {
   final String imageUrl;
 
   Item(this.name, this.price, this.imageUrl);
+  
 }

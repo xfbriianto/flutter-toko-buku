@@ -9,10 +9,17 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.5
+  cached_network_image: ^3.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^2.0.0
+
+  dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
 
 flutter:
   uses-material-design: true
@@ -24,10 +31,7 @@ flutter:
     - assets/14.jpeg
     - assets/15.jpg
     - assets/16.jpg
-    
-    
-    
-    
-    
-
+    - assets/image/
+ 
     # Anda bisa menambahkan lebih banyak gambar di sini jika diperlukan
+
